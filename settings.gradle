@@ -1,0 +1,2 @@
+rootProject.name='Endless_Runner'
+include ':app'
